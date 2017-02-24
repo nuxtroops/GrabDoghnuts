@@ -2,9 +2,9 @@
 Similar with Matches game in Strawberry Prolog
 ==============================================
 Grab Doghnuts adalah permainan strategi untuk 
-mengalahkan lawan dalam mengambil donat siapa 
-yang terakhir mengambil donat maka ia yang 
-akan kalah, permainan ini dimainkan oleh 
+mengalahkan lawan dalam mengambil donat. Siapa 
+yang terakhir mengambil donat, maka ia yang 
+akan kalah. Permainan ini dimainkan oleh 
 player melawan komputer atau AI. Permainan 
 ini menampilkan sebuah window berukuran 
 1000x370px dengan 1 buah icon donat 
