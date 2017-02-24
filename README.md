@@ -11,4 +11,3 @@ ini menampilkan sebuah window berukuran
 berukuran 50x50px. Grab Doghnuts mengadaptasi 
 game Matches yang sudah ada sebelumnya 
 pada Strawberry Prolog.
-==============================================
